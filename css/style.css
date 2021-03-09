@@ -58,7 +58,7 @@ header .container {
 }
 
 .cover {
-    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.5) 100%), url("https://github.com/aguiar0x01/humanodev/img/cover.png");
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.5) 100%), url("img/cover.png");
     
     background-size: cover;
     height: 200px;
@@ -99,7 +99,7 @@ header .container {
 .post1 {
     
     /* imagem apenas para teste */
-    background: url("https://github.com/aguiar0x01/humanodev/img/cover.png");
+    background: url("img/cover.png");
 
     display: flex;
     justify-content: center;
@@ -116,7 +116,7 @@ header .container {
 .post2 {
 
     /* imagem apenas para teste */
-    background: url("https://github.com/aguiar0x01/humanodev/img/cover.png");
+    background: url("img/cover.png");
 
     display: flex;
     justify-content: center;
@@ -133,7 +133,7 @@ header .container {
 .post3 {
 
     /* imagem apenas para teste */
-    background: url("https://github.com/aguiar0x01/humanodev/img/cover.png");
+    background: url("img/cover.png");
 
     display: flex;
     justify-content: center;
