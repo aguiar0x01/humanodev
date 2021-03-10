@@ -1,0 +1,132 @@
+@media screen and (max-width: 400px) {
+    .container {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    header .container {
+        height: 40px;
+    }
+
+    .logo a {
+        font-size: 20px;
+    }
+
+    .buttons {
+        padding: 5px 20px;
+        margin-left: 3px;
+        font-size: 9px;
+    }
+
+    .cover {
+        background-size: cover;
+        height: 100px;
+    }
+
+    .cover img {
+        width: 80%;
+    }
+
+    .projects p {
+        margin-top: 10px;
+        margin-bottom: 10px;
+        padding: 3px 20px;
+        font-size: 13px;
+    }
+
+    .box-posts {
+        font-size: 10px;
+    }
+
+    .post1 {
+        width: 30%;
+        height: 200px;
+        margin-right: 7px;
+        font-size: 10px;
+    }
+    
+    .post2 {
+        width: 30%;
+        height: 200px;
+        margin-right: 7px;
+        font-size: 10px;
+    }
+    
+    .post3 {
+        width: 30%;
+        height: 200px;
+        font-size: 10px;
+    }
+    
+    footer {
+        font-size: 12px;
+        margin-top: 250px;
+        height: 40px;
+    }
+
+}
+
+@media screen and (max-width: 780px) {
+    .container {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    header .container {
+        height: 50px;
+    }
+
+    .logo a {
+        font-size: 20px;
+    }
+
+    .buttons {
+        padding: 8px 20px;
+        margin-left: 3px;
+        font-size: 11px;
+    }
+
+    .cover {
+        background-size: cover;
+        height: 100px;
+    }
+
+    .cover img {
+        width: 60%;
+    }
+
+    .projects p {
+        margin-top: 10px;
+        margin-bottom: 10px;
+        padding: 4px 22px;
+        font-size: 14px;
+    }
+
+    .box-posts {
+        font-size: 11px;
+    }
+
+    .post1 {
+        width: 30%;
+        height: 200px;
+        margin-right: 7px;
+    }
+    
+    .post2 {
+        width: 30%;
+        height: 200px;
+        margin-right: 7px;
+    }
+    
+    .post3 {
+        width: 30%;
+        height: 200px;
+    }
+    
+    footer {
+        font-size: 13px;
+        margin-top: 250px;
+        height: 50px;
+    }
+
+}
