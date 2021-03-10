@@ -63,7 +63,6 @@ header .container {
     align-items: center;
     justify-content: center;
 
-    background: linear-gradient(rgb(3, 8, 71), rgba(7, 141, 219, 1) 100%);
     background-size: cover;
     height: 200px;
     width: 100%;
