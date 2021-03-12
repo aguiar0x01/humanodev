@@ -83,7 +83,7 @@ header .container {
     margin-bottom: 15px;
     background-color: var(--azul);
     color: var(--branco);
-    padding: 5px 35px;
+    padding: 5px 40px;
     border-radius: 10px;
     font-size: 22px;
 }
@@ -94,6 +94,8 @@ header .container {
     align-items: center;
     text-align: center;
     font-size: 22px;
+    padding-left: 15px;
+    padding-right: 15px;
 }
 
 .post1 {
@@ -104,8 +106,8 @@ header .container {
     align-items: center;
     color: var(--branco);
 
-    width: 30%;
     height: 300px;
+    width: 300px;
     margin-right: 15px;
 
     border-radius: 25px;
@@ -120,8 +122,8 @@ header .container {
 
     color: var(--branco);
 
-    width: 30%;
     height: 300px;
+    width: 300px;
     margin-right: 15px;
 
     border-radius: 25px;
@@ -135,8 +137,8 @@ header .container {
     align-items: center;
     color: var(--branco);
 
-    width: 30%;
     height: 300px;
+    width: 300px;
 
     border-radius: 25px;
 }
